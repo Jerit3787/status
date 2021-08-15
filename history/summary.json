@@ -4,19 +4,19 @@
     "url": "https://www.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/www.danishsite.me",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "1.21%",
-    "uptimeDay": "1.21%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "status": "up",
+    "uptime": "91.00%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "91.00%",
+    "uptimeYear": "91.00%",
+    "time": 60,
+    "timeDay": 60,
+    "timeWeek": 60,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://projects.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/projects.danishsite.me",
     "slug": "projects-website",
-    "status": "down",
-    "uptime": "3.73%",
-    "uptimeDay": "3.73%",
-    "uptimeWeek": "3.73%",
-    "uptimeMonth": "3.73%",
-    "uptimeYear": "3.73%",
-    "time": 50,
-    "timeDay": 50,
-    "timeWeek": 50,
-    "timeMonth": 50,
-    "timeYear": 50,
+    "status": "up",
+    "uptime": "90.59%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "90.59%",
+    "uptimeYear": "90.59%",
+    "time": 64,
+    "timeDay": 64,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 9
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://links.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/links.danishsite.me",
     "slug": "links-website",
-    "status": "down",
-    "uptime": "5.07%",
-    "uptimeDay": "5.07%",
-    "uptimeWeek": "5.07%",
-    "uptimeMonth": "5.07%",
-    "uptimeYear": "5.07%",
-    "time": 57,
-    "timeDay": 57,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "status": "up",
+    "uptime": "90.46%",
+    "uptimeDay": "90.46%",
+    "uptimeWeek": "90.46%",
+    "uptimeMonth": "90.46%",
+    "uptimeYear": "90.46%",
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 9
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://stutastic.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/stutastic.danishsite.me",
     "slug": "project-stutastic",
-    "status": "down",
-    "uptime": "6.88%",
-    "uptimeDay": "6.88%",
-    "uptimeWeek": "6.88%",
-    "uptimeMonth": "6.88%",
-    "uptimeYear": "6.88%",
-    "time": 173,
-    "timeDay": 173,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "status": "up",
+    "uptime": "90.39%",
+    "uptimeDay": "90.39%",
+    "uptimeWeek": "90.39%",
+    "uptimeMonth": "90.39%",
+    "uptimeYear": "90.39%",
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 9
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://planner.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/planner.danishsite.me",
     "slug": "stutastic-planner",
-    "status": "down",
-    "uptime": "8.58%",
-    "uptimeDay": "8.58%",
-    "uptimeWeek": "8.58%",
-    "uptimeMonth": "8.58%",
-    "uptimeYear": "8.58%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "status": "up",
+    "uptime": "90.30%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "90.30%",
+    "uptimeMonth": "90.30%",
+    "uptimeYear": "90.30%",
+    "time": 57,
+    "timeDay": 57,
+    "timeWeek": 57,
+    "timeMonth": 57,
+    "timeYear": 57,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 9
     }
   },
   {
@@ -123,18 +123,18 @@
     "icon": "https://favicons.githubusercontent.com/www.channelbukuteks.ml",
     "slug": "channel-buku-teks-website",
     "status": "down",
-    "uptime": "3.96%",
-    "uptimeDay": "3.96%",
-    "uptimeWeek": "3.96%",
-    "uptimeMonth": "3.96%",
-    "uptimeYear": "3.96%",
+    "uptime": "90.19%",
+    "uptimeDay": "90.19%",
+    "uptimeWeek": "90.19%",
+    "uptimeMonth": "90.19%",
+    "uptimeYear": "90.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 9
     }
   }
 ]
