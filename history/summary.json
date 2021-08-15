@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.danishsite.me",
     "slug": "main-website",
     "status": "up",
-    "uptime": "91.00%",
-    "uptimeDay": "91.00%",
-    "uptimeWeek": "91.00%",
-    "uptimeMonth": "91.00%",
-    "uptimeYear": "91.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 60,
     "timeDay": 60,
     "timeWeek": 60,
     "timeMonth": 60,
     "timeYear": 60,
-    "dailyMinutesDown": {
-      "2021-08-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/projects.danishsite.me",
     "slug": "projects-website",
     "status": "up",
-    "uptime": "90.59%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "90.59%",
-    "uptimeYear": "90.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 64,
     "timeDay": 64,
     "timeWeek": 64,
     "timeMonth": 64,
     "timeYear": 64,
-    "dailyMinutesDown": {
-      "2021-08-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Links Website",
@@ -63,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/links.danishsite.me",
     "slug": "links-website",
     "status": "up",
-    "uptime": "90.46%",
-    "uptimeDay": "90.46%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "90.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 132,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
-    "dailyMinutesDown": {
-      "2021-08-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Project Stutastic",
@@ -83,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/stutastic.danishsite.me",
     "slug": "project-stutastic",
     "status": "up",
-    "uptime": "90.39%",
-    "uptimeDay": "90.39%",
-    "uptimeWeek": "90.39%",
-    "uptimeMonth": "90.39%",
-    "uptimeYear": "90.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2021-08-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stutastic Planner",
@@ -103,38 +95,34 @@
     "icon": "https://favicons.githubusercontent.com/planner.danishsite.me",
     "slug": "stutastic-planner",
     "status": "up",
-    "uptime": "90.30%",
-    "uptimeDay": "90.30%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "90.30%",
-    "uptimeYear": "90.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 57,
     "timeDay": 57,
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
-    "dailyMinutesDown": {
-      "2021-08-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Channel Buku Teks Website",
     "url": "https://www.channelbukuteks.ml",
     "icon": "https://favicons.githubusercontent.com/www.channelbukuteks.ml",
     "slug": "channel-buku-teks-website",
-    "status": "down",
-    "uptime": "90.19%",
-    "uptimeDay": "90.19%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "90.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-08-15": 9
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
+    "dailyMinutesDown": {}
   }
 ]
