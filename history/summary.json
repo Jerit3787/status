@@ -24,19 +24,19 @@
     "url": "https://www.danishsite.ml",
     "icon": "https://favicons.githubusercontent.com/www.danishsite.ml",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1290,
-    "timeDay": 2002,
-    "timeWeek": 1483,
-    "timeMonth": 1290,
-    "timeYear": 1290,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1358,
+    "timeDay": 2229,
+    "timeWeek": 1633,
+    "timeMonth": 1358,
+    "timeYear": 1358,
     "dailyMinutesDown": {
-      "2021-09-04": 1
+      "2021-09-04": 31
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://www.channelbukuteks.ml",
     "icon": "https://favicons.githubusercontent.com/www.channelbukuteks.ml",
     "slug": "channel-buku-teks-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 376,
-    "timeDay": 308,
-    "timeWeek": 357,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 372,
+    "timeDay": 291,
+    "timeWeek": 347,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2021-09-04": 0
+      "2021-09-04": 31
     }
   }
 ]
