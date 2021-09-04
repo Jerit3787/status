@@ -24,19 +24,19 @@
     "url": "https://www.danishsite.ml",
     "icon": "https://favicons.githubusercontent.com/www.danishsite.ml",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1290,
     "timeDay": 2002,
     "timeWeek": 1483,
     "timeMonth": 1290,
     "timeYear": 1290,
     "dailyMinutesDown": {
-      "2021-09-04": 12
+      "2021-09-04": 1
     }
   },
   {
@@ -124,7 +124,7 @@
     "url": "https://www.channelbukuteks.ml",
     "icon": "https://favicons.githubusercontent.com/www.channelbukuteks.ml",
     "slug": "channel-buku-teks-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -135,6 +135,8 @@
     "timeWeek": 357,
     "timeMonth": 376,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 0
+    }
   }
 ]
