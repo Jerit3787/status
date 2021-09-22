@@ -7,6 +7,8 @@ sites:
     url: https://www.danishsite.me
   - name: API
     url: https://www.danishsite.ml
+  - name: Web App Repository
+    url: https://app.danishsite.me
   - name: Projects Website
     url: https://projects.danishsite.me
   - name: Links Website
