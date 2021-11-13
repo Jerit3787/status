@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/www.danishsite.ml",
     "slug": "api",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 964,
     "timeDay": 535,
     "timeWeek": 688,
@@ -64,7 +64,7 @@
     "url": "https://projects.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/projects.danishsite.me",
     "slug": "projects-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,10 +72,12 @@
     "uptimeYear": "100.00%",
     "time": 124,
     "timeDay": 83,
-    "timeWeek": 120,
-    "timeMonth": 113,
+    "timeWeek": 115,
+    "timeMonth": 112,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-13": 0
+    }
   },
   {
     "name": "Links Website",
