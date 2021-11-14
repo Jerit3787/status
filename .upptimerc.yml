@@ -27,6 +27,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "Jerit3787's Project Status Page"
+  theme: dark
   introTitle: "This page gives you real-time data of my current projects website status."
   introMessage: "This website is still under testing! Data shown here may or not as accurate for now!"
   navbar:
