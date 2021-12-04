@@ -4,10 +4,10 @@
     "url": "https://www.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/www.danishsite.me",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "95.46%",
     "uptimeYear": "98.75%",
     "time": 194,
@@ -16,6 +16,7 @@
     "timeMonth": 277,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2021-12-04": 3,
       "2021-11-14": 942,
       "2021-11-13": 1045
     }
@@ -53,29 +54,31 @@
     "url": "https://app.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/app.danishsite.me",
     "slug": "web-app-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 143,
     "timeDay": 104,
     "timeWeek": 195,
     "timeMonth": 181,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-04": 2
+    }
   },
   {
     "name": "Projects Website",
     "url": "https://projects.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/projects.danishsite.me",
     "slug": "projects-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.45%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "95.44%",
     "uptimeYear": "98.75%",
     "time": 144,
     "timeDay": 251,
@@ -83,6 +86,7 @@
     "timeMonth": 194,
     "timeYear": 144,
     "dailyMinutesDown": {
+      "2021-12-04": 2,
       "2021-11-14": 925,
       "2021-11-13": 1071
     }
@@ -92,10 +96,10 @@
     "url": "https://links.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/links.danishsite.me",
     "slug": "links-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "95.72%",
     "uptimeYear": "98.82%",
     "time": 130,
@@ -104,6 +108,7 @@
     "timeMonth": 151,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2021-12-04": 1,
       "2021-11-14": 948,
       "2021-11-13": 928
     }
@@ -113,10 +118,10 @@
     "url": "https://stutastic.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/stutastic.danishsite.me",
     "slug": "project-stutastic",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "98.84%",
     "time": 133,
@@ -125,6 +130,7 @@
     "timeMonth": 172,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2021-12-04": 1,
       "2021-11-14": 925,
       "2021-11-13": 927
     }
@@ -134,9 +140,9 @@
     "url": "https://planner.danishsite.me",
     "icon": "https://favicons.githubusercontent.com/planner.danishsite.me",
     "slug": "stutastic-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.62%",
     "uptimeYear": "98.80%",
@@ -146,6 +152,7 @@
     "timeMonth": 136,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2021-12-04": 0,
       "2021-11-14": 925,
       "2021-11-13": 993
     }
