@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.danishsite.me): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://status.danishplace.tech): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Danish Hakim](www.danishsite.me), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.danishsite.me)
+[**Visit our status website →**](https://status.danishplace.tech)
 
 ## 📄 License
 
