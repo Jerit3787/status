@@ -7,8 +7,6 @@ sites:
     url: https://www.danishplace.tech
   - name: API
     url: https://www.danishsite.ml
-  - name: Web App Repository
-    url: https://app.danishplace.tech
   - name: Projects Website
     url: https://projects.danishplace.tech
   - name: Links Website
