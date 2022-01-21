@@ -16,7 +16,7 @@ sites:
   - name: Stutastic Planner
     url: https://planner.danishplace.tech
   - name: Channel Buku Teks Website
-    url: https://www.channelbukuteks.ml
+    url: https://www.channelbukuteks.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
