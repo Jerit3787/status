@@ -11,6 +11,8 @@ sites:
     url: https://projects.danishplace.tech
   - name: Links Website
     url: https://links.danishplace.tech
+  - name: Social Links Website
+    url: https://personal.danishplace.tech
   - name: Project Stutastic
     url: https://stutastic.danishplace.tech
   - name: Stutastic Planner
