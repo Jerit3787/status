@@ -7,6 +7,8 @@ sites:
     url: https://www.danishplace.tech
   - name: API (current)
     url: https://api.danishplace.tech
+    expectedStatusCodes:
+      - 404
   - name: API (legacy)
     url: https://www.danishsite.ml
   - name: Projects Website
