@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.70%",
+    "uptimeYear": "95.92%",
     "time": 177,
-    "timeDay": 220,
-    "timeWeek": 168,
-    "timeMonth": 170,
+    "timeDay": 180,
+    "timeWeek": 160,
+    "timeMonth": 168,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2022-09-14": 22,
@@ -34,8 +34,7 @@
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
-      "2021-12-04": 1189,
-      "2021-11-14": 942
+      "2021-12-04": 1189
     }
   },
   {
@@ -49,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 221,
-    "timeWeek": 146,
-    "timeMonth": 213,
-    "timeYear": 250,
+    "time": 249,
+    "timeDay": 210,
+    "timeWeek": 144,
+    "timeMonth": 207,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -62,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/projects.danishplace.tech.ico",
     "slug": "projects-website",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "96.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.64%",
+    "uptimeYear": "95.87%",
     "time": 151,
-    "timeDay": 165,
+    "timeDay": 196,
     "timeWeek": 180,
-    "timeMonth": 192,
+    "timeMonth": 191,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2022-09-14": 22,
@@ -90,8 +89,7 @@
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
-      "2021-12-04": 1188,
-      "2021-11-14": 925
+      "2021-12-04": 1188
     }
   },
   {
@@ -100,16 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.danishplace.tech.ico",
     "slug": "links-website",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.67%",
+    "uptimeYear": "95.87%",
     "time": 152,
-    "timeDay": 153,
-    "timeWeek": 173,
-    "timeMonth": 161,
-    "timeYear": 160,
+    "timeDay": 195,
+    "timeWeek": 163,
+    "timeMonth": 159,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2022-09-14": 22,
       "2022-08-15": 771,
@@ -128,8 +126,7 @@
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
-      "2021-12-04": 1187,
-      "2021-11-14": 948
+      "2021-12-04": 1187
     }
   },
   {
@@ -140,13 +137,13 @@
     "status": "up",
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.07%",
+    "uptimeWeek": "80.39%",
     "uptimeMonth": "94.03%",
     "uptimeYear": "99.14%",
     "time": 153,
-    "timeDay": 121,
-    "timeWeek": 141,
-    "timeMonth": 147,
+    "timeDay": 183,
+    "timeWeek": 153,
+    "timeMonth": 142,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2022-11-08": 651,
@@ -162,15 +159,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stutastic.danishplace.tech.ico",
     "slug": "project-stutastic",
     "status": "up",
-    "uptime": "96.53%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.68%",
+    "uptimeYear": "95.88%",
     "time": 142,
-    "timeDay": 175,
-    "timeWeek": 152,
-    "timeMonth": 151,
+    "timeDay": 201,
+    "timeWeek": 158,
+    "timeMonth": 150,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2022-09-14": 22,
@@ -190,8 +187,7 @@
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
-      "2021-12-04": 1187,
-      "2021-11-14": 925
+      "2021-12-04": 1187
     }
   },
   {
@@ -200,16 +196,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/planner.danishplace.tech.ico",
     "slug": "stutastic-planner",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.67%",
-    "time": 133,
-    "timeDay": 252,
-    "timeWeek": 169,
+    "uptimeYear": "95.88%",
+    "time": 134,
+    "timeDay": 194,
+    "timeWeek": 172,
     "timeMonth": 163,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2022-09-14": 22,
       "2022-08-15": 772,
@@ -228,8 +224,7 @@
       "2021-12-07": 1440,
       "2021-12-06": 1440,
       "2021-12-05": 1440,
-      "2021-12-04": 1186,
-      "2021-11-14": 925
+      "2021-12-04": 1186
     }
   },
   {
@@ -242,11 +237,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.36%",
-    "uptimeYear": "96.08%",
+    "uptimeYear": "96.23%",
     "time": 534,
-    "timeDay": 530,
-    "timeWeek": 390,
-    "timeMonth": 348,
+    "timeDay": 430,
+    "timeWeek": 396,
+    "timeMonth": 350,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2022-10-18": 548,
@@ -269,8 +264,7 @@
       "2022-01-18": 1440,
       "2022-01-17": 759,
       "2022-01-11": 94,
-      "2022-01-10": 389,
-      "2021-11-14": 957
+      "2022-01-10": 389
     }
   },
   {
@@ -285,9 +279,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 141,
-    "timeDay": 150,
+    "timeDay": 178,
     "timeWeek": 150,
-    "timeMonth": 175,
+    "timeMonth": 163,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2022-09-14": 22,
