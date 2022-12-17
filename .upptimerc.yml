@@ -4,30 +4,30 @@ repo: status # The name of this repository
 
 sites:
   - name: Main Website
-    url: https://www.danishplace.tech
+    url: https://www.danplace.tech
   - name: API Server
-    url: https://api.danishplace.tech
+    url: https://api.danplace.tech
     expectedStatusCodes:
       - 404
   - name: Projects Website
-    url: https://projects.danishplace.tech
+    url: https://projects.danplace.tech
   - name: Links Website
-    url: https://links.danishplace.tech
+    url: https://links.danplace.tech
   - name: Social Links Website
-    url: https://personal.danishplace.tech
+    url: https://personal.danplace.tech
   - name: Project Stutastic
-    url: https://stutastic.danishplace.tech
+    url: https://stutastic.danplace.tech
   - name: Stutastic Planner
-    url: https://planner.danishplace.tech
+    url: https://planner.danplace.tech
   - name: Channel Buku Teks Website
     url: https://www.channelbukuteks.tk
   - name: Status Website
-    url: https://status.danishplace.tech
+    url: https://status.danplace.tech
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.danishplace.tech
+  cname: status.danplace.tech
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "Jerit3787's Project Status Page"
