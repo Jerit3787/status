@@ -20,7 +20,7 @@ sites:
   - name: Stutastic Planner
     url: https://planner.danplace.tech
   - name: Channel Buku Teks Website
-    url: https://www.bukuteks.github.io
+    url: https://bukuteks.github.io
   - name: Status Website
     url: https://status.danplace.tech
 
