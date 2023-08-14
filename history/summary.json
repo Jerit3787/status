@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 152,
-    "timeDay": 194,
-    "timeWeek": 181,
-    "timeMonth": 126,
-    "timeYear": 145,
+    "timeDay": 141,
+    "timeWeek": 176,
+    "timeMonth": 125,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2022-12-17": 892,
       "2022-12-16": 1320,
       "2022-09-14": 22,
-      "2022-08-15": 766,
-      "2022-08-14": 491
+      "2022-08-15": 766
     }
   },
   {
@@ -35,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 209,
-    "timeDay": 285,
-    "timeWeek": 289,
-    "timeMonth": 245,
-    "timeYear": 209,
+    "timeDay": 312,
+    "timeWeek": 281,
+    "timeMonth": 240,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2023-03-14": 17,
       "2022-12-17": 910,
@@ -57,16 +56,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 144,
-    "timeDay": 256,
-    "timeWeek": 150,
-    "timeMonth": 114,
-    "timeYear": 141,
+    "timeDay": 263,
+    "timeWeek": 169,
+    "timeMonth": 117,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2022-12-17": 910,
       "2022-12-16": 1320,
       "2022-09-14": 22,
-      "2022-08-15": 816,
-      "2022-08-14": 784
+      "2022-08-15": 816
     }
   },
   {
@@ -75,14 +73,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.danplace.tech.ico",
     "slug": "links-website",
     "status": "up",
-    "uptime": "97.61%",
+    "uptime": "97.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "99.16%",
     "time": 153,
-    "timeDay": 181,
-    "timeWeek": 136,
+    "timeDay": 141,
+    "timeWeek": 132,
     "timeMonth": 107,
     "timeYear": 152,
     "dailyMinutesDown": {
@@ -90,8 +88,7 @@
       "2022-12-17": 910,
       "2022-12-16": 1319,
       "2022-09-14": 22,
-      "2022-08-15": 771,
-      "2022-08-14": 1440
+      "2022-08-15": 771
     }
   },
   {
@@ -100,14 +97,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/personal.danplace.tech.ico",
     "slug": "social-links-website",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 135,
-    "timeDay": 152,
-    "timeWeek": 122,
+    "timeDay": 137,
+    "timeWeek": 123,
     "timeMonth": 101,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -130,17 +127,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
-    "time": 100,
-    "timeDay": 10,
-    "timeWeek": 17,
+    "time": 99,
+    "timeDay": 20,
+    "timeWeek": 13,
     "timeMonth": 10,
     "timeYear": 84,
     "dailyMinutesDown": {
       "2022-12-17": 870,
       "2022-12-16": 1319,
       "2022-09-14": 22,
-      "2022-08-15": 772,
-      "2022-08-14": 762
+      "2022-08-15": 772
     }
   },
   {
@@ -155,16 +151,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 133,
-    "timeDay": 157,
-    "timeWeek": 129,
-    "timeMonth": 126,
+    "timeDay": 97,
+    "timeWeek": 122,
+    "timeMonth": 124,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2022-12-17": 881,
       "2022-12-16": 1318,
       "2022-09-14": 22,
-      "2022-08-15": 772,
-      "2022-08-14": 762
+      "2022-08-15": 772
     }
   },
   {
@@ -173,15 +168,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bukuteks.github.io.ico",
     "slug": "channel-buku-teks-website",
     "status": "up",
-    "uptime": "93.93%",
+    "uptime": "93.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.52%",
     "time": 315,
-    "timeDay": 152,
-    "timeWeek": 92,
-    "timeMonth": 80,
+    "timeDay": 103,
+    "timeWeek": 95,
+    "timeMonth": 79,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2023-03-01": 313,
@@ -233,16 +228,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 124,
-    "timeDay": 159,
-    "timeWeek": 138,
-    "timeMonth": 103,
-    "timeYear": 118,
+    "timeDay": 128,
+    "timeWeek": 134,
+    "timeMonth": 102,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2022-12-17": 702,
       "2022-12-16": 1318,
       "2022-09-14": 22,
-      "2022-08-15": 766,
-      "2022-08-14": 762
+      "2022-08-15": 766
     }
   }
 ]
