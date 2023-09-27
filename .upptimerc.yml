@@ -17,6 +17,8 @@ sites:
     url: https://personal.danplace.tech
   - name: Project Stutastic
     url: https://stutastic.danplace.tech
+  - name: Tracking Website
+    url: https://tracking.danplace.tech
   - name: Stutastic Planner
     url: https://planner.danplace.tech
   - name: Channel Buku Teks Website
