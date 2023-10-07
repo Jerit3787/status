@@ -9,6 +9,8 @@ sites:
     url: https://api.danplace.tech
     expectedStatusCodes:
       - 200
+  - name: CDN Website
+    url: https://cdn.stutastic.danplace.tech
   - name: Projects Website
     url: https://projects.danplace.tech
   - name: Links Website
