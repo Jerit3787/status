@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.84%",
     "time": 139,
     "timeDay": 151,
     "timeWeek": 98,
@@ -17,8 +17,7 @@
     "timeYear": 126,
     "dailyMinutesDown": {
       "2023-10-23": 25,
-      "2023-10-20": 16,
-      "2022-12-17": 892
+      "2023-10-20": 16
     }
   },
   {
@@ -31,7 +30,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.78%",
     "time": 229,
     "timeDay": 399,
     "timeWeek": 204,
@@ -40,8 +39,7 @@
     "dailyMinutesDown": {
       "2023-10-30": 54,
       "2023-10-27": 272,
-      "2023-03-14": 17,
-      "2022-12-17": 910
+      "2023-03-14": 17
     }
   },
   {
@@ -72,15 +70,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 137,
     "timeDay": 48,
     "timeWeek": 119,
     "timeMonth": 90,
     "timeYear": 124,
-    "dailyMinutesDown": {
-      "2022-12-17": 910
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Links Website",
@@ -88,19 +84,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.danplace.tech.ico",
     "slug": "links-website",
     "status": "up",
-    "uptime": "97.96%",
+    "uptime": "97.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.84%",
     "time": 141,
     "timeDay": 56,
     "timeWeek": 84,
     "timeMonth": 89,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-05-01": 19,
-      "2022-12-17": 910
+      "2023-05-01": 19
     }
   },
   {
@@ -113,15 +108,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 125,
     "timeDay": 70,
     "timeWeek": 63,
     "timeMonth": 86,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2022-12-17": 910
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Project Stutastic",
@@ -133,7 +126,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.79%",
     "time": 72,
     "timeDay": 49,
     "timeWeek": 52,
@@ -141,8 +134,7 @@
     "timeYear": 43,
     "dailyMinutesDown": {
       "2023-10-30": 54,
-      "2023-10-27": 272,
-      "2022-12-17": 870
+      "2023-10-27": 272
     }
   },
   {
@@ -151,18 +143,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracking.danplace.tech.ico",
     "slug": "tracking-website",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.41%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.41%",
     "time": 861,
     "timeDay": 923,
     "timeWeek": 901,
     "timeMonth": 885,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2023-12-16": 0,
+      "2023-12-17": 78,
+      "2023-12-16": 4,
       "2023-10-18": 99,
       "2023-10-17": 502
     }
@@ -177,15 +170,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.85%",
     "time": 124,
     "timeDay": 74,
     "timeWeek": 87,
     "timeMonth": 86,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2022-12-17": 881
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Channel Buku Teks Website",
@@ -248,14 +239,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 115,
     "timeDay": 74,
     "timeWeek": 69,
     "timeMonth": 72,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2022-12-17": 702
-    }
+    "dailyMinutesDown": {}
   }
 ]
