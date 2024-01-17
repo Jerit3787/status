@@ -1,7 +1,7 @@
 url: https://api.danplace.tech
-status: down
-code: 500
-responseTime: 1130
-lastUpdated: 2024-01-17T21:44:04.821Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2024-01-17T22:15:05.344Z
 startTime: 2022-08-04T14:27:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
