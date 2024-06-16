@@ -6,9 +6,7 @@ sites:
   - name: Main Website
     url: https://www.danplace.tech
   - name: API Server
-    url: https://api.danplace.tech
-    expectedStatusCodes:
-      - 200
+    url: https://api.danplace.tech/v3/status/check
   - name: CDN Website
     url: https://cdn.stutastic.danplace.tech
   - name: Projects Website
@@ -37,7 +35,6 @@ status-website:
   name: "Jerit3787's Project Status Page"
   theme: dark
   introTitle: "This page gives you real-time data of my current projects website status."
-  introMessage: "This website is still under testing! Data shown here may or not as accurate for now!"
   navbar:
     - title: Status
       href: /
