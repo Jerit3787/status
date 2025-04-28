@@ -1,7 +1,7 @@
 url: https://stutastic.danplace.tech
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2025-04-28T23:09:01.836Z
+status: down
+code: 500
+responseTime: 78
+lastUpdated: 2025-04-28T23:53:12.944Z
 startTime: 2021-08-15T11:30:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
