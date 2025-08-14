@@ -22,18 +22,20 @@
     "url": "https://api.danplace.tech/v3/status/check",
     "icon": "https://icons.duckduckgo.com/ip3/api.danplace.tech.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 955,
+    "time": 957,
     "timeDay": 948,
     "timeWeek": 939,
     "timeMonth": 972,
     "timeYear": 1073,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   },
   {
     "name": "CDN Website",
