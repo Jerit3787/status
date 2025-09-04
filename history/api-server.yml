@@ -1,7 +1,7 @@
-url: https://api.danplace.tech/v3/status/check
+url: https://dev.api.danplace.tech/v3/status/check
 status: up
 code: 200
-responseTime: 906
-lastUpdated: 2025-09-04T13:57:01.270Z
+responseTime: 7149
+lastUpdated: 2025-09-04T19:04:45.328Z
 startTime: 2022-08-04T14:27:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
