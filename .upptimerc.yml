@@ -6,7 +6,7 @@ sites:
   - name: Main Website
     url: https://www.danplace.tech
   - name: API Server
-    url: https://api.danplace.tech/v3/status/check
+    url: https://dev.api.danplace.tech/v3/status/check
   - name: CDN Website
     url: https://cdn.stutastic.danplace.tech
   - name: Projects Website
