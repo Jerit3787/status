@@ -22,7 +22,7 @@
     "url": "https://api.danplace.tech/v3/status/check",
     "icon": "https://icons.duckduckgo.com/ip3/api.danplace.tech.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.67%",
