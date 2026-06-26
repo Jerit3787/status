@@ -168,16 +168,16 @@
     "url": "https://tracking.danplace.tech",
     "icon": "https://icons.duckduckgo.com/ip3/tracking.danplace.tech.ico",
     "slug": "tracking-website",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "99.39%",
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "99.36%",
     "time": 875,
-    "timeDay": 722,
-    "timeWeek": 853,
-    "timeMonth": 847,
+    "timeDay": 804,
+    "timeWeek": 857,
+    "timeMonth": 849,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2025-08-10": 154,
@@ -190,7 +190,7 @@
       "2026-04-06": 686,
       "2026-06-06": 256,
       "2026-06-05": 1076,
-      "2026-06-26": 0
+      "2026-06-26": 123
     }
   },
   {
