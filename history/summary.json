@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1043,
     "timeDay": 1088,
     "timeWeek": 1327,
@@ -139,19 +139,20 @@
     "url": "https://stutastic.danplace.tech",
     "icon": "https://icons.duckduckgo.com/ip3/stutastic.danplace.tech.ico",
     "slug": "project-stutastic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 189,
-    "timeDay": 138,
-    "timeWeek": 228,
-    "timeMonth": 264,
-    "timeYear": 178,
+    "timeDay": 108,
+    "timeWeek": 209,
+    "timeMonth": 258,
+    "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-11-18": 138
+      "2025-11-18": 138,
+      "2026-11-02": 0
     }
   },
   {
